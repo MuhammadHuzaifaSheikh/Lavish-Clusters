@@ -1,0 +1,128 @@
+// // Plugin CSS
+// @import "~bootstrap/dist/css/bootstrap.min.css";
+// @import "~animate.css";
+// @import "~slick-carousel/slick/slick.css";
+// @import "~slick-carousel/slick/slick-theme.css";
+// @import "../node_modules/react-modal-video/scss/modal-video.scss";
+
+// // Init main SCSS File
+// @import "/public/assets/scss/style.scss";
+
+// /* General Styling for Approach Area */
+// .approach-area {
+//     background-color: #f8faff;
+//     padding-top: 120px;
+//     padding-bottom: 120px;
+//   }
+  
+//   .approach-visual {
+//     text-align: center;
+//   }
+  
+//   /* Styling for Oval-Shaped Steps */
+//   .diagram-step {
+//     border: 2px solid #1f3e7b;
+//     border-radius: 50%; /* Make it perfectly circular */
+//     width: 250px;
+//     height: 120px;
+//     padding: 30px 0;
+//     margin: -25px auto; /* Negative margin for collision effect */
+//     background-color: #eef3ff;
+//     transition: background-color 0.3s ease, color 0.3s ease;
+//     display: flex;
+//     align-items: center;
+//     cursor: pointer;
+//     justify-content: center;
+//   }
+  
+//   /* Active state when a step is clicked */
+//   .diagram-step.active {
+//     background-color: #0056b3;
+//     color: #fff;
+//   }
+  
+//   /* Styling for Step Titles */
+//   .diagram-title {
+//     font-size: 18px;
+//     font-weight: bold;
+//   }
+  
+//   /* Overlapping effect for consecutive steps */
+//   .diagram-step + .diagram-step {
+//     margin-top: -25px; /* Adjust to create overlap */
+//   }
+  
+//   /* Accordion styling adjustments (optional if you need it) */
+//   .accordion-button {
+//     font-size: 18px;
+//     font-weight: bold;
+//     color: #1f3e7b;
+//   }
+  
+//   .accordion-button:not(.collapsed) {
+//     background-color: #eef3ff;
+//     color: #1f3e7b;
+//   }
+  
+//   .accordion-body {
+//     font-size: 16px;
+//     color: #333;
+//   }
+  
+
+
+//   // technologies section
+
+//   /* Technologies Section */
+// .tech-section {
+//     background-color: #f8faff;
+//     padding: 60px 0;
+//   }
+  
+//   .tech-section-title {
+//     margin-bottom: 40px;
+//   }
+  
+//   .tech-categories-btn-group .tech-category-btn {
+//     background-color: transparent;
+//     border: 1px solid #e0e0e0;
+//     padding: 10px 20px;
+//     margin: 0 10px;
+//     cursor: pointer;
+//     transition: all 0.3s;
+//   }
+  
+//   .tech-categories-btn-group .tech-category-btn.active {
+//     background-color: #0056b3;
+//     color: white;
+//   }
+  
+//   .tech-icons-grid .tech-icon-box {
+//     display: flex;
+//     flex-direction: column;
+//     align-items: center;
+//     width: 120px;
+//     height: 120px;
+//     border: 1px solid #e0e0e0;
+//     border-radius: 10px;
+//     padding: 15px;
+//     transition: all 0.3s;
+//   }
+  
+//   .tech-icons-grid .tech-icon-box .tech-icon {
+//     font-size: 40px;
+//     color: #0056b3;
+//   }
+  
+//   .tech-icons-grid .tech-icon-box .tech-name {
+//     margin-top: 10px;
+//     font-size: 16px;
+//     font-weight: bold;
+//   }
+  
+//   .tech-icons-grid .tech-icon-box:hover {
+//     background-color: #eef3ff;
+//     border-color: #0056b3;
+//   }
+  
+  
